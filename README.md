@@ -49,6 +49,16 @@ const developer = {
 
 ---
 
+## 🤖 AI & Automation Tools
+
+![Claude](https://img.shields.io/badge/-Claude-000?\&logo=anthropic)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-000?\&logo=openai)
+![Gemini](https://img.shields.io/badge/-Gemini-000?\&logo=google)
+![n8n](https://img.shields.io/badge/-n8n-000?\&logo=n8n)
+![Tomlo](https://img.shields.io/badge/-Tomlo-000)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
