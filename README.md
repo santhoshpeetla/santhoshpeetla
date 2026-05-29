@@ -83,7 +83,7 @@ const developer = {
 
 ## 🤝 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/santhosh-peetla?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/santhosh-peetla?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox)](https://yourwebsite.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/YOUR_HANDLE)
 
