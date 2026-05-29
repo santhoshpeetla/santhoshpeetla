@@ -1,4 +1,4 @@
-*# Hey there 👋 I'm ~~Batman!~~Santhosh*
+<i># Hey there 👋 I'm ~~Batman!~~Santhosh</i>
 
 ```ts
 const developer = {
