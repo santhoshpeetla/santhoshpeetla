@@ -4,7 +4,7 @@
 const developer = {
     name: "[Santhosh]",
     role: "Full Stack Developer",
-    location: "Inida",
+    location: "India",
     languages: ["JavaScript", "TypeScript", "Python", "Go"],
     technologies: {
         frontend: ["React", "Next.js", "TailwindCSS"],
